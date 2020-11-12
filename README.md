@@ -21,7 +21,7 @@
 
 ## 简单安装
 
-``` bash
+``` bash 
 sudo bash < <(curl -Ls https://raw.githubusercontent.com/RManLuo/crack-soga-v2ray/master/install.sh)
 ```
 
